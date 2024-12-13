@@ -1,34 +1,36 @@
-# MVP-Sprint-Gest-o-gil
-MVP Gestão Ágil de Projetos e Produtos PUC-RJ
+# HoopStats App 🏀 
+é um aplicativo focado em jogadores de basquete amadores que desejam acompanhar suas estatísticas pessoais, analisar o desempenho em jogos e interagir com outros jogadores. O app oferece uma experiência simples e intuitiva para melhorar habilidades técnicas, criar conexões e motivar os usuários a se destacarem em quadra.
 
 
-Principais Funcionalidades
+🔧 Principais Funcionalidades
 
-1. Registro de Estatísticas de Jogos:
+✍️ Registro de Estatísticas de Jogos:
 
 • Pontos, rebotes, assistências e outras estatísticas básicas.
 
-2. Perfil do Jogador:
+👤 Perfil do Jogador:
 
 • Foto, nome, posição e resumo de desempenho.
 
-3. Gráficos de Desempenho:
+🔍 Gráficos de Desempenho:
 
 • Visualização clara da evolução em cada estatística ao longo do tempo.
 
-4.Comparativos de Desempenho:
+🔄 Comparativos de Desempenho:
 
 • Comparação de resultados entre diferentes períodos.
 
-5. Conexão entre Jogadores:
+🏆 Conexão entre Jogadores:
 
 • Rankings e desafios entre amigos.
 
-Objetivo do Produto
+🔍 Público-Alvo
 
-Facilitar o acompanhamento e a análise do desempenho individual no basquete.
+🔰 João Medeiros: Jogador amador que deseja melhorar suas habilidades e se destacar em peladas.
 
-Motivar os jogadores por meio de dados e insights claros.
+⚖️ Clara Silva: Organiza jogos com amigos e quer ferramentas para gerenciar presenças e resultados.
 
-Criar uma comunidade engajada e competitiva para jogadores amadores.
+⭐ Pedro Rocha: Jogador intermediário, focado em comparar seu desempenho e planejar melhorias.
+
+
 
