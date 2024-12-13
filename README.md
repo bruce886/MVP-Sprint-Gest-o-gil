@@ -1,38 +1,40 @@
-📊 HoopStats App - Eleve seu jogo com dados inteligentes
+Aqui está uma versão aprimorada do seu "readme", com ajustes para melhorar a legibilidade e a estrutura visual, mantendo o formato simples e agradável de ler:
 
-🏀 Principais Funcionalidades
+---
 
-✍️ Registro de Estatísticas de Jogos
-Pontos, rebotes, assistências e outras estatísticas básicas.
+# 📊 **HoopStats App** - Eleve seu jogo com dados inteligentes
 
-👤 Perfil do Jogador
-Foto, nome, posição e resumo de desempenho.
+## 🏀 **Principais Funcionalidades**
 
-🔍 Gráficos de Desempenho
-Visualização clara da evolução em cada estatística ao longo do tempo.
+### ✍️ **Registro de Estatísticas de Jogos**
+- Acompanhe pontos, rebotes, assistências e outras estatísticas importantes.
 
-🔄 Comparativos de Desempenho
-Comparação de resultados entre diferentes períodos.
+### 👤 **Perfil do Jogador**
+- Personalize seu perfil com foto, nome, posição e um resumo de desempenho.
 
-🏆 Conexão entre Jogadores
-Rankings e desafios entre amigos.
+### 🔍 **Gráficos de Desempenho**
+- Visualize a evolução das suas estatísticas ao longo do tempo com gráficos interativos.
 
-🔍 Público-Alvo
-🔰 João Medeiros: Jogador amador que deseja melhorar suas habilidades e se destacar em peladas.
-⚖️ Clara Silva: Organiza jogos com amigos e quer ferramentas para gerenciar presenças e resultados.
-⭐ Pedro Rocha: Jogador intermediário, focado em comparar seu desempenho e planejar melhorias.
+### 🔄 **Comparativos de Desempenho**
+- Compare os resultados de diferentes períodos e veja seu progresso.
 
+### 🏆 **Conexão entre Jogadores**
+- Participe de rankings e desafios com amigos para aumentar a competitividade.
 
-🕹️ Como Usar
-🔄 Download e Cadastro: Baixe o app na loja de aplicativos e crie seu perfil.
-🔖 Registro de Jogos: Insira as estatísticas de cada partida jogada.
-📊 Visualize Dados: Acompanhe seu progresso através dos gráficos no dashboard.
-🌐 Conecte-se: Desafie amigos e compare seus desempenhos.
-🌐 Roadmap Futuro
-🎮 Gamificação: Sistema de conquistas e desafios diários.
-🎥 Técnicas Avançadas: Upload de vídeos para análise técnica.
-⌚ Integração: Compatibilidade com dispositivos wearables para captura automática de dados.
-📃 Contribuições
-Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
+---
 
+## 🔍 **Público-Alvo**
+
+- **🔰 João Medeiros**: Jogador amador que deseja aprimorar suas habilidades e se destacar em peladas.
+- **⚖️ Clara Silva**: Organiza jogos e precisa de ferramentas para gerenciar presenças e resultados.
+- **⭐ Pedro Rocha**: Jogador intermediário que busca comparar seu desempenho e planejar melhorias.
+
+---
+
+## 🕹️ **Como Usar**
+
+1. **🔄 Download e Cadastro**: Baixe o app na loja de aplicativos e crie seu perfil.
+2. **🔖 Registro de Jogos**: Adicione as estatísticas de cada partida jogada.
+3. **📊 Visualize Dados**: Acompanhe seu progresso no dashboard com gráficos interativos.
+4. **🌐 Conecte-se**: Desafie amigos e compare os desempenhos.
 
