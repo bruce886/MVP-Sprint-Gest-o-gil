@@ -1,4 +1,5 @@
-Aqui está uma versão aprimorada do seu "readme", com ajustes para melhorar a legibilidade e a estrutura visual, mantendo o formato simples e agradável de ler:
+
+Uma plataforma digital que permite a jogadores amadores de basquete monitorar suas estatísticas, analisar suas performances e acessar treinos personalizados, ajudando-os a evoluir no esporte de maneira prática e acessível.
 
 ---
 
