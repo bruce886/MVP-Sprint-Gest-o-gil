@@ -24,6 +24,7 @@
 
 • Rankings e desafios entre amigos.
 
+
 🔍 Público-Alvo
 
 🔰 João Medeiros: Jogador amador que deseja melhorar suas habilidades e se destacar em peladas.
