@@ -1,5 +1,5 @@
 ```markdown
-# README - HoopStats App
+# 📊 HoopStats App - Eleve seu jogo com dados inteligentes
 
 ## 🏀 Principais Funcionalidades
 
